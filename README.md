@@ -6,7 +6,6 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 * Some of my hobbies include: <br/>
 📘 Reading  
 💻 Programming   
-🏊 Swimming  
 
 ## Experience
 ### Programming Languages:
