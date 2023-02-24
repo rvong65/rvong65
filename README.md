@@ -1,7 +1,7 @@
 Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ryan 
 =================================================================================================================================
 * 🖥️  See my portfolio at [My Portfolio](http://ryanvong-myportfolio.netlify.app/)
-* 🤖  I'm interested in anything artificial intelligence related such as natural language processing and computer vision
+* 🤖  I'm interested in anything artificial intelligence related such as reinforcement learning, natural language processing and computer vision
 * Some of my hobbies include: <br/>
 📘 Reading  
 💻 Programming   
