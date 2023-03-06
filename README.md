@@ -2,7 +2,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 =================================================================================================================================
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [My Portfolio](http://ryanvong-myportfolio.netlify.app/)
-* 🤖  I'm interested in anything artificial intelligence related such as reinforcement learning, natural language processing and computer vision
+* 🤖  I'm interested in anything artificial intelligence related including reinforcement learning, natural language processing, and computer vision.
 * Some of my hobbies include: <br/>
 📘 Reading  
 💻 Programming   
