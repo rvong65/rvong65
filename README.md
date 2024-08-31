@@ -1,7 +1,6 @@
 Hi there! 👋 My name is Ryan 
 =================================================================================================================================
 * 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio at [My Portfolio](http://ryanvong-myportfolio.netlify.app/)
 * 🤖  I'm interested in anything artificial intelligence related including reinforcement learning, natural language processing, and computer vision
 * Some of my hobbies include: <br/>
 📘 Reading  
