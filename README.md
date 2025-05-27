@@ -1,10 +1,10 @@
 Hi there! 👋 My name is Ryan 
 =================================================================================================================================
-* 🌍  I'm based in Los Angeles
-* 🤖  I'm interested in integrating artificial intelligence and software engineering applications
+* 🤖 Welcome to my GitHub! I’m an aspiring AI Engineer passionate about blending artificial intelligence with software engineering to solve real-world problems. My projects focus on machine learning, deep learning, and data-driven applications, using tools like Python, TensorFlow, PyTorch, and Pandas. From predictive models to automated systems, I’m driven to create AI solutions with impact in areas like healthcare and automation. I’m always experimenting with new algorithms and datasets, aiming to bridge research with practical applications. 
 * Some of my hobbies include: <br/>
 📘 Reading  
-💻 Programming   
+💻 Programming <br/>
+🌱 Exploring Artificial Intelligence
 
 ## Experience
 ### Programming Languages:
